@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Dec/2024:19:21:44 +0700] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 11
+127.0.0.1 - - [04/Dec/2024:19:21:44 +0700] "GET /images/edblogo.png HTTP/1.1" 404 987 http-bio-8080-exec-2 25
+127.0.0.1 - - [04/Dec/2024:19:21:44 +0700] "GET / HTTP/1.1" 200 229 http-bio-8080-exec-1 27
+127.0.0.1 - - [04/Dec/2024:19:22:57 +0700] "GET /latihanwebmvc HTTP/1.1" 404 977 http-bio-8080-exec-3 22
+127.0.0.1 - - [04/Dec/2024:19:23:00 +0700] "GET /ello HTTP/1.1" 404 959 http-bio-8080-exec-4 1
+127.0.0.1 - - [04/Dec/2024:19:23:02 +0700] "GET /index.jsp HTTP/1.1" 404 969 http-bio-8080-exec-5 0
+127.0.0.1 - - [04/Dec/2024:19:23:08 +0700] "GET /index.html HTTP/1.1" 200 229 http-bio-8080-exec-6 2
+127.0.0.1 - - [04/Dec/2024:19:23:10 +0700] "GET /login.jsp HTTP/1.1" 500 3140 http-bio-8080-exec-7 90
+127.0.0.1 - - [04/Dec/2024:19:23:20 +0700] "GET /editUser.jsp HTTP/1.1" 500 3140 http-bio-8080-exec-8 6
+127.0.0.1 - - [04/Dec/2024:19:23:28 +0700] "GET /login.jsp HTTP/1.1" 500 3140 http-bio-8080-exec-9 5
+127.0.0.1 - - [04/Dec/2024:19:23:39 +0700] "GET /welcome.jsp HTTP/1.1" 500 3140 http-bio-8080-exec-10 5
